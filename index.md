@@ -10,7 +10,7 @@ Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 
 Images look like links except with an exclamation directly in front
 
-![My Shiny Image]DSC0007.png
+![My Shiny Image](https://github.com/bfuemmeler/cintel-01-pages/blob/main/DSC_0007.png)
 
 ## Reminders
 
