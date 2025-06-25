@@ -10,7 +10,7 @@ Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 
 Flowers are my Fave
 
-![My Shiny Image}https://media.istockphoto.com/id/1130636356/photo/sunset-over-mountain-with-cosmos-blooming.jpg?s=2048x2048&w=is&k=20&c=Jsa0jHAasrODcY_zsNUeXLUjDOXLB32-1M-9Gph75ww=
+![My Shiny Image}https://github.com/bfuemmeler/cintel-01-pages/blob/main/istockphoto-1130636356-2048x2048.jpg
 
 ## Reminders
 
