@@ -10,7 +10,7 @@ Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 
 Flowers are my Fave
 
-![My Shiny Image]https://github.com/bfuemmeler/cintel-01-pages/blob/main/istockphoto-1130636356-2048x2048.jpg
+![My Shiny Image](https://github.com/bfuemmeler/cintel-01-pages/blob/main/istockphoto-1130636356-2048x2048.jpg)
 
 ## Reminders
 
